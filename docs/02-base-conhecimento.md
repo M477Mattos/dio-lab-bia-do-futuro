@@ -29,15 +29,11 @@ O agente carrega os arquivos via código.
 import pandas as pd
 import json
 
-#CSV
+perfil = json.load(open("data/perfil_investidor.json"))
 historico = pd.read_csv("data/historico_atendimento.csv")
 transacoes = pd.read_csv("data/transacoes.csv")
+produtos = json.load(open("data/produtos_financeiros.json")
 
-#JSON
-with open("data/perfil_investidor.json", "r", encoding="utf-8) as f:
-    perfil = json.load(f)
-with open("data/produtos_financeiros.json", "r", encoding="utf-8) as f:
-    perfil = json.load(f)
 ```
 
 ### Como os dados são usados no prompt?
