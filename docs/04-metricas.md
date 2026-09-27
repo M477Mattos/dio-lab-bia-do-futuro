@@ -56,7 +56,7 @@ Após os testes, registre suas conclusões:
 - [Liste aqui]
 
 **O que pode melhorar:**
-- [Liste aqui]
+- por algum motivo não consegui resposta nenhuma nem rodando local nem em nuvem tentei resolver e não sai do lugar infelizmente me sinto incapaz de continuar, mesmo com auxilio de IA não consegui resolver.
 
 ---
 
