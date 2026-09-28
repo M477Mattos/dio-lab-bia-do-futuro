@@ -41,4 +41,6 @@
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+Infelizmente não consegui terminar essa parte porem futuramente eu irei concluir todo o projeto de verdade, mas hoje não tenho mais tempo para concluir essa etapa final.
+Mas venho por meio deste trecho agradecer por todo o conteúdo do curso tudo o que eu aprendo foi de extrema importância para mim por isso eu voltarei nesse projeto para finalizo mesmo que isso não conte depois que o tempo do bootcamp acabe.
+Não sei se o projeto será Inteiramente revisado mas se sim me cobre a finalização pela plataforma da DIO que eu com certeza voltarei semana que vem a polir esse projeto incrível. 
